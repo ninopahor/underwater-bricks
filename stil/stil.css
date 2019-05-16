@@ -1,0 +1,108 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+  background: url("../slike/underwater2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+  
+}
+#glavni{
+	margin: 50px auto;
+  width: 984px;
+  height: 476px;
+
+  
+ 
+
+  background: url("../slike/frame.png"); 
+   background-size: cover;
+   
+}
+#canvas{
+	margin: 33px 30px;
+	text-align: center;
+	
+	
+	
+}
+#nas{
+	margin: 30px auto;
+	text-align: center;
+	font-family: "1";
+	font-size: 90px;
+	
+	}
+	
+
+#tocke{
+	
+	font-size:50px;
+	text-align: center;
+	
+}
+#cas{
+	font-size:50px;
+	text-align: center;
+	
+}
+#zivljenja{
+	margin: 20px auto;
+	color: white;
+	text-align: center;
+	font-size:60px;
+	font-family: cursive;
+	
+}
+#pozicija{
+	
+}
+#r{
+	margin: 20px 180px;
+	float: left;
+	text-align:center;
+	
+	font-family: cursive;
+}
+#l{
+	margin: 20px 180px;;
+	float: right;
+	text-align:center;
+	font-family: cursive;
+}
+#butt{
+	
+font-family: cursive;
+background-color: white;
+  border: none;
+  color: black;
+
+  text-align: center;
+  text-decoration: none;
+  
+  font-size: 16px;
+
+   height:60px;
+  width: 150px;
+  cursor: pointer;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+}
+#button{
+	
+	text-align: center;
+
+}
+
+	
+	
+@font-face{
+	font-family:"1";
+	src: url("../font/Lost Fish.otf");
+}
+@font-face{
+	font-family:"2";
+	src: url("../font/Findet Nemo.ttf");
+}
